@@ -1,0 +1,20 @@
+name: IODBenchmark
+dependencies:
+  - python=3.7
+  - menpo::opencv
+  - numpy
+  - pandas
+  - matplotlib
+  - pyyaml
+  - scipy
+  - cython
+  - scikit-learn
+  - tqdm
+  - scipy
+  - tabulate
+  - munch
+  - conda-forge::pycocotools
+  - conda-forge::pyhocon
+  - conda-forge::wandb
+  - conda-forge::gxx_linux-64=5.4.0
+  - plotly::plotly
