@@ -1,6 +1,7 @@
-# IODBench
+# IODBenchmark
 
 An experiment structure providing easy prototyping and benchmarking of incremental object detection methods.
+Reproduces the results of a wide array of incremental object detection strategies, as well as implementing a few novel strategies.
 
 ## Installation
 
